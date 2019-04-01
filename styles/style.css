@@ -1,0 +1,55 @@
+body {
+
+  font-family: sans-serif;
+  background-color: #cf6766;
+  color: white;
+
+}
+
+ul.navigation {
+
+  list-style-type: none;
+  background-color: #30415d;
+  margin-right: 100px;
+  font-size: 36px
+
+}
+
+li {
+
+  display: inline;
+  padding: 12px;
+
+}
+
+nav a {
+
+  color: white;
+  text-decoration: none;
+
+}
+
+nav a:hover {
+
+  text-decoration: underline;
+
+}
+
+.selfie {
+
+  border: 10mm solid #8eaebd;
+
+}
+
+article {
+
+  background-color: #8eaebd;
+  padding: 5mm;
+
+}
+
+footer {
+
+  color: black;
+  
+}
