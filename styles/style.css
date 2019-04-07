@@ -1,9 +1,31 @@
+html {
+
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  margin: 20px 20px 20px 20px;
+
+}
+
 body {
 
   font-family: sans-serif;
   background-color: #cf6766;
   color: white;
 
+}
+
+h1{
+
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 3.5rem;
+  text-align: center;
+
+}
+
+p{
+
+  font-family: serif;
+  font-size: 2rem;
 }
 
 ul.navigation {
@@ -19,6 +41,7 @@ li {
 
   display: inline;
   padding: 12px;
+  text-shadow: 1px 1px 1px;
 
 }
 
@@ -26,6 +49,7 @@ nav a {
 
   color: white;
   text-decoration: none;
+  padding: 3px;
 
 }
 
@@ -45,11 +69,14 @@ article {
 
   background-color: #8eaebd;
   padding: 5mm;
+  text-align: center;
 
 }
 
 footer {
 
   color: black;
-  
+  font-family: serif;
+  font-size: 1.7rem;
+
 }
