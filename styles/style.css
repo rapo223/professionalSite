@@ -28,7 +28,7 @@ p{
   font-size: 2rem;
 }
 
-ul.navigation {
+nav ul {
 
   list-style-type: none;
   background-color: #30415d;
@@ -37,7 +37,7 @@ ul.navigation {
 
 }
 
-li {
+nav li {
 
   display: inline;
   padding: 12px;
@@ -61,7 +61,7 @@ nav a:hover {
 
 .selfie {
 
-  border: 10mm solid #8eaebd;
+  border: 1mm solid #8eaebd;
 
 }
 
@@ -73,9 +73,30 @@ article {
 
 }
 
+div section {
+
+  background-color: #8eaebd;
+  padding: 12px;
+
+}
+
+section.expertise li{
+
+  font-family: serif;
+  font-size: 2rem;
+
+}
+
+section.courses li{
+
+  font-family: serif;
+  font-size: 2rem;
+
+}
+
 footer {
 
-  color: black;
+  color: white;
   font-family: serif;
   font-size: 1.7rem;
 
