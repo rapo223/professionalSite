@@ -26,13 +26,14 @@ p{
 
   font-family: serif;
   font-size: 2rem;
+
 }
 
 nav ul {
 
   list-style-type: none;
   background-color: #30415d;
-  margin-right: 100px;
+  margin-right: auto;
   font-size: 36px
 
 }
@@ -62,6 +63,10 @@ nav a:hover {
 .selfie {
 
   border: 1mm solid #8eaebd;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 
 }
 
