@@ -99,6 +99,13 @@ section.courses li{
 
 }
 
+.LI-profile-badge{
+
+  background-color: #8eaebd;
+  padding: 12px;
+
+}
+
 footer {
 
   color: white;
